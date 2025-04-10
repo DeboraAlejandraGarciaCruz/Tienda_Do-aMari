@@ -1,2 +1,2 @@
 # Tienda_DoniaMari
-Tienda_
+Tienda
